@@ -32,7 +32,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="data.txt" />
+		<Unit filename="elevi.txt" />
+		<Unit filename="ex6" />
+		<Unit filename="ex9" />
+		<Unit filename="functi.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="soluti.h" />
+		<Unit filename="structuri.h" />
+		<Unit filename="tema.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

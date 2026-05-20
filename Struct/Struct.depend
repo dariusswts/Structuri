@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1779126298 source:c:\mycode\structuri\struct\main.cpp
+	"soluti.h"
+
+1779126901 c:\mycode\structuri\struct\soluti.h
+	"functi.h"
+	"structuri.h"
+
+1779292826 c:\mycode\structuri\struct\functi.h
+	"structuri.h"
+	<string.h>
+
+1779126573 c:\mycode\structuri\struct\structuri.h
+	<iostream>
+	<fstream>
+	<string.h>
+
