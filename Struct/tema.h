@@ -5,7 +5,7 @@
 
 
 ///4
-
+/*
 struct Elev{
     char nume[50], prenume[50];
 };
@@ -21,7 +21,7 @@ void citire4(Elev v[], int &n){
 void sortare(Elev v[],int n){
     for(int i=0;i<n-1;i++){
         for(int j=i+1;j<n;j++){
-            if(strcmp(v[i].nume,v[j].nume)>)
+            if(strcmp(v[i].nume,v[j].nume)>0)
         }
     }
 }
@@ -30,6 +30,7 @@ void afisare4(Elev v[], int n){
     for(int i=0;i<n;i++)
         cout<<v[i].nume<<" "<<v[i].prenume<<endl;
 }
+*/
 
 
 ///6

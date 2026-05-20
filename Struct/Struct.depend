@@ -1,6 +1,6 @@
 # depslib dependency file v1.0
-1779126298 source:c:\mycode\structuri\struct\main.cpp
-	"soluti.h"
+1779297501 source:c:\mycode\structuri\struct\main.cpp
+	"corectarea_temei.h"
 
 1779126901 c:\mycode\structuri\struct\soluti.h
 	"functi.h"
@@ -11,6 +11,11 @@
 	<string.h>
 
 1779126573 c:\mycode\structuri\struct\structuri.h
+	<iostream>
+	<fstream>
+	<string.h>
+
+1779298322 c:\mycode\structuri\struct\corectarea_temei.h
 	<iostream>
 	<fstream>
 	<string.h>
